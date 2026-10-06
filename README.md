@@ -1,7 +1,5 @@
 # 226_ConnectionDb
 
-Program Express JS untuk koneksi ke database PostgreSQL (`mahasiswa`, tabel `biodata`).
-
 ## Tabel biodata
 
 | Kolom | Keterangan |
