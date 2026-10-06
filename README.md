@@ -11,17 +11,6 @@ Program Express JS untuk koneksi ke database PostgreSQL (`mahasiswa`, tabel `bio
 | nim   | NIM |
 | kelas | kelas |
 
-## Endpoint
-
-- `GET /biodata` : ambil semua data biodata
-
-## Cara jalanin
-
-1. Bikin database dan tabel pake `biodata.sql`
-2. `npm install`
-3. Sesuaiin password postgres di `index.js`
-4. `node index.js`
-5. Buka `http://localhost:3000/biodata`
 
 ## Hasil GET
 <img width="1917" height="1198" alt="Screenshot 2026-10-06 104454" src="https://github.com/user-attachments/assets/797f213c-6a73-46f6-a16c-4cbc8d326154" />
